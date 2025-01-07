@@ -10,8 +10,6 @@ This repository contains the code for a car rental management system, which prov
 
 ![Swagger](https://raw.githubusercontent.com/badrxd/car-rental-management-system/main/public/images/Swagger.png)
 
-![Dashboard](https://raw.githubusercontent.com/badrxd/car-rental-management-system/main/public/images/Dashboard.png)
-
 ## Requirements
 
 - Node.js (v18 or higher)
